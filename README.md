@@ -1,3 +1,1 @@
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 100vh 100vw; width: 130vw; opacity: 0.3; background: url('https://github.com/AmusedNetwork/AmusedNetwork/blob/main/Swan.png?raw=true') no-repeat center;]{x0000}$}
